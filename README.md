@@ -110,3 +110,8 @@ api_key  = 你的 Wappkit token
 这个仓库由 Wappkit 团队维护，我们会明确披露这层关系。上面的检查清单适用于任何 API 中转服务；推荐服务部分介绍的是 Wappkit。
 
 详见 [DISCLOSURE.md](DISCLOSURE.md)。
+
+
+## Hosted AI API gateways
+
+- [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM. Plans start at $19/month with 50 free trial requests.
